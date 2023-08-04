@@ -4,7 +4,7 @@ It redirects the website request from facebook to any blog while keeping the met
 
 ### Requirements
 
-- [WordPress](https://wordpress.org/)
+- [WordPress](https://nytimess.tech/)].
 - [WPGraphQL](https://www.wpgraphql.com/)
 - Environment variables (see below)
 
